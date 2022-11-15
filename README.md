@@ -2,7 +2,7 @@
 
 ## **Introduction:**
 
-The objective of this project is to detect credit card transaction fraud by machine learning with pyspark and MLlib.
+The objective of this project is to detect credit card transaction fraud by machine learning with pyspark and MLlib. This is my first pyspark project.
 
 ## **Data source:**
 
